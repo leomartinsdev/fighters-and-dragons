@@ -7,6 +7,7 @@ Esse projeto é uma simulação de um jogo RPG onde você pode executar batalhas
 
 ## Feito com 👨‍💻:
 - TypeScript
+- Docker
 - POO
 - SOLID.
 
